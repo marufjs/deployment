@@ -1,0 +1,2 @@
+# deployment
+Heroku, Netlify
